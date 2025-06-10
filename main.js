@@ -36,7 +36,7 @@ let world = [
   {
     name: 'Market - Thornfeild',
     desc: "You enter the weekly Shopping District, only open every Thursday from 1-1:05pm.",
-    look: "As you may have guessed, the few people who were able to attend this event seem to be very proud of themselves. In fact, one civilian just jumped off a roof because they thought they were the luckiest person in Canadia the great.",
+    look: "As you may have guessed, the few people who were able to attend this event seem to be very proud of themselves.",
     npc: {name: 'Thornfeildillian', dial: ["Oh, hello there!", "Isn't this just great! I waited 604800 seconds for this moment!", "What brings you here today my fellow Thornfeildillian?", "Hey, here's a little tip... If you need food go west to the fishing dock... Old Tom might be able to help you..."]},
     mnstrs: [],
     loot: 0,
