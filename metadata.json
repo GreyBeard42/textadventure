@@ -1,0 +1,15 @@
+{
+  "title": "Text Adventure",
+  "desc": "A javascript text adventure with p5.js visuals",
+
+  "status": "archived",
+  "version": "v1",
+
+  "date": "6/2/2024",
+
+  "tags": [
+    "javascript",
+    "p5.js",
+    "game"
+  ]
+}
